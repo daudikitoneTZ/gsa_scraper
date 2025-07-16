@@ -1,0 +1,2206 @@
+[
+  {
+    "country": "Europe",
+    "tournaments": [
+      {
+        "name": "UEFA Champions League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-champions-league-2025-2026/1st-qualifying-round/125230/"
+      },
+      {
+        "name": "UEFA Europa League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-europa-league-2025-2026/1st-qualifying-round/125240/"
+      },
+      {
+        "name": "UEFA Nations League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-nations-league-2024-2025/final/95402/"
+      },
+      {
+        "name": "UEFA Conference League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-conference-league-2025-2026/1st-qualifying-round/125250/"
+      },
+      {
+        "name": "UEFA Super Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-super-cup-2025/final/125260/"
+      },
+      {
+        "name": "WC Qualification",
+        "url": "https://globalsportsarchive.com/competition/soccer/wc-qualification-2026-canada-mexico-usa/group-stage/112397/"
+      },
+      {
+        "name": "UEFA European Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-european-championship-2024-germany/final/72545/"
+      },
+      {
+        "name": "UEFA Euro Qualification",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-euro-qualification-2024-germany/play-offs-final/66487/"
+      },
+      {
+        "name": "UEFA Cup Winners' Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-cup-winners-cup-1998-1999/final/76452/"
+      },
+      {
+        "name": "UEFA Intertoto Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-intertoto-cup-2008/round-3/75401/"
+      },
+      {
+        "name": "UEFA U-21 Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-u-21-championship-2025-slovakia/final/111652/"
+      },
+      {
+        "name": "UEFA U-21 Qualifiers",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-u-21-qualifiers-2027-albania-serbia/group-stage/118283/"
+      },
+      {
+        "name": "UEFA U-19 Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-u-19-championship-2025-romania/final/121835/"
+      },
+      {
+        "name": "UEFA U-19 Qualifiers",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-u-19-qualifiers-2026-wales/qualifying-round/121129/"
+      },
+      {
+        "name": "UEFA U-17 Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-u-17-championship-2025-albania/final/121124/"
+      },
+      {
+        "name": "UEFA U-17 Championship Qualification",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-u-17-championship-qualification-2026-estonia/round-1/121125/"
+      },
+      {
+        "name": "UEFA Youth League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-youth-league-2024-2025/final/119249/"
+      },
+      {
+        "name": "Premier League International Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/premier-league-international-cup-2024-2025/final/123803/"
+      },
+      {
+        "name": "Inter-Cities Fairs Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/inter-cities-fairs-cup-1970-1971/final/77700/"
+      },
+      {
+        "name": "Insurance Corporation Muratti Vase",
+        "url": "https://globalsportsarchive.com/competition/soccer/insurance-corporation-muratti-vase-2015/final/5799/"
+      },
+      {
+        "name": "Baltic Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/baltic-cup-2024/final/97968/"
+      },
+      {
+        "name": "U-17 Baltic Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/u-17-baltic-cup-2025/final-round/126996/"
+      },
+      {
+        "name": "UEFA Women's Champions League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-champions-league-2025-2026/round-1-semi-finals/125426/"
+      },
+      {
+        "name": "UEFA Women's Nations League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-nations-league-2024-2025/league-a/110847/"
+      },
+      {
+        "name": "FIFA Women's World Cup Qualifiers",
+        "url": "https://globalsportsarchive.com/competition/soccer/fifa-womens-world-cup-qualifiers-2023-australia-new-zealand/play-offs-final/72670/"
+      },
+      {
+        "name": "UEFA Women's Europa Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-europa-cup-2025-2026/final/125443/"
+      },
+      {
+        "name": "UEFA Women's Euro",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-euro-2025-switzerland/final/112594/"
+      },
+      {
+        "name": "UEFA Women's European Qualifiers",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-european-qualifiers-2025-switzerland/play-offs-final/97026/"
+      },
+      {
+        "name": "UEFA Women's U-17 Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-u-17-championship-2025-faroe-islands/final/120475/"
+      },
+      {
+        "name": "UEFA Women's U-17 Qualifiers",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-u-17-qualifiers-2026-northern-ireland/round-1-league-a/126023/"
+      },
+      {
+        "name": "UEFA Women's U-19 Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-u-19-championship-2025-poland/final/121839/"
+      },
+      {
+        "name": "British Home Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/british-home-championship-1983-1984/final-round/18077/"
+      },
+      {
+        "name": "UEFA Women's U-19 Qualifiers",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-womens-u-19-qualifiers-2026-bosnia-hercegovina/round-1-league-b/127433/"
+      },
+      {
+        "name": "Baltic Women's Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/baltic-womens-cup-2025/final/127507/"
+      },
+      {
+        "name": "Linnapeade Karikaturniir",
+        "url": "https://globalsportsarchive.com/competition/soccer/linnapeade-karikaturniir-2008/final-round/97937/"
+      },
+      {
+        "name": "Unite the union Champions Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/unite-the-union-champions-cup-2019/final/36747/"
+      },
+      {
+        "name": "UEFA Futsal Euro",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-futsal-euro-2022-netherlands/final/95217/"
+      },
+      {
+        "name": "UEFA Futsal Euro Qualifiers",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-futsal-euro-qualifiers-2026-latvia-lithuania/main-round/116904/"
+      },
+      {
+        "name": "UEFA Futsal Champions League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uefa-futsal-champions-league-2024-2025/final/111488/"
+      },
+      {
+        "name": "Carling Nations Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/carling-nations-cup-2011-republic-of-ireland/final-round/97077/"
+      },
+      {
+        "name": "BeNe League",
+        "url": "https://globalsportsarchive.com/competition/soccer/bene-league-2014-2015/regular-season/77333/"
+      },
+      {
+        "name": "FIFA Futsal Women's WC Qualification",
+        "url": "https://globalsportsarchive.com/competition/soccer/fifa-futsal-womens-wc-qualification-2025-philippines/elite-round/118485/"
+      }
+    ]
+  },
+  {
+    "country": "Albania",
+    "tournaments": [
+      {
+        "name": "abissnet Superiore",
+        "url": "https://globalsportsarchive.com/competition/soccer/abissnet-superiore-2024-2025/final/124224/"
+      },
+      {
+        "name": "Kategoria e Parë",
+        "url": "https://globalsportsarchive.com/competition/soccer/kategoria-e-pare-2024-2025/promotion-play-offs-final/123359/"
+      },
+      {
+        "name": "Kategoria e Dytë",
+        "url": "https://globalsportsarchive.com/competition/soccer/kategoria-e-dyte-2023-2024/promotion-play-offs-final/118412/"
+      },
+      {
+        "name": "Kategoria e Tretë",
+        "url": "https://globalsportsarchive.com/competition/soccer/kategoria-e-trete-2023-2024/championship-final/118417/"
+      },
+      {
+        "name": "U 19 superiore",
+        "url": "https://globalsportsarchive.com/competition/soccer/u-19-superiore-2015-2016/regular-season/6661/"
+      },
+      {
+        "name": "U 17 superiore",
+        "url": "https://globalsportsarchive.com/competition/soccer/u-17-superiore-2015-2016/regular-season/6662/"
+      },
+      {
+        "name": "Kupa e Shqipërisë",
+        "url": "https://globalsportsarchive.com/competition/soccer/kupa-e-shqiperise-2024-2025/final/108141/"
+      },
+      {
+        "name": "Superkupa e Shqipërisë",
+        "url": "https://globalsportsarchive.com/competition/soccer/superkupa-e-shqiperise-2024/final/112266/"
+      }
+    ]
+  },
+  {
+    "country": "Andorra",
+    "tournaments": [
+      {
+        "name": "Lliga Multisegur Assegurances",
+        "url": "https://globalsportsarchive.com/competition/soccer/lliga-multisegur-assegurances-2025-2026/regular-season/125680/"
+      },
+      {
+        "name": "Lliga Unida",
+        "url": "https://globalsportsarchive.com/competition/soccer/lliga-unida-2024-2025/regular-season/104345/"
+      },
+      {
+        "name": "Copa Constitució Valira Seguretat",
+        "url": "https://globalsportsarchive.com/competition/soccer/copa-constitucio-valira-seguretat-2024-2025/final/122135/"
+      },
+      {
+        "name": "Supercopa",
+        "url": "https://globalsportsarchive.com/competition/soccer/supercopa-2024/final/107167/"
+      }
+    ]
+  },
+  {
+    "country": "Armenia",
+    "tournaments": [
+      {
+        "name": "Fastex Premier League",
+        "url": "https://globalsportsarchive.com/competition/soccer/fastex-premier-league-2024-2025/regular-season/103964/"
+      },
+      {
+        "name": "First Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/first-division-2024-2025/regular-season/103968/"
+      },
+      {
+        "name": "Armenian Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/armenian-cup-2024-2025/final/124209/"
+      },
+      {
+        "name": "Supercup",
+        "url": "https://globalsportsarchive.com/competition/soccer/supercup-2024/final/116379/"
+      }
+    ]
+  },
+  {
+    "country": "Austria",
+    "tournaments": [
+      {
+        "name": "Admiral Bundesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/admiral-bundesliga-2025-2026/regular-season/125698/"
+      },
+      {
+        "name": "Admiral 2. Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/admiral-2-liga-2025-2026/regular-season/125703/"
+      },
+      {
+        "name": "Regionalliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/regionalliga-2025-2026/west/125706/"
+      },
+      {
+        "name": "Burgenlandliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/burgenlandliga-2025-2026/regular-season/127783/"
+      },
+      {
+        "name": "Kärntner Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/karntner-liga-2025-2026/regular-season/127408/"
+      },
+      {
+        "name": "11teamsports 1. Landesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/11teamsports-1-landesliga-2025-2026/regular-season/127784/"
+      },
+      {
+        "name": "LT1 OÖ Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/lt1-oo-liga-2025-2026/regular-season/127785/"
+      },
+      {
+        "name": "Salzburger Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/salzburger-liga-2025-2026/regular-season/127781/"
+      },
+      {
+        "name": "Sparkassen Landesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/sparkassen-landesliga-2025-2026/regular-season/127782/"
+      },
+      {
+        "name": "HYPO Tirol Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/hypo-tirol-liga-2022-2023/regular-season/69353/"
+      },
+      {
+        "name": "Vorarlberg-Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/vorarlberg-liga-2022-2023/regular-season/69363/"
+      },
+      {
+        "name": "Wiener Stadtliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/wiener-stadtliga-2025-2026/regular-season/127788/"
+      },
+      {
+        "name": "tt.com Regionalliga Tirol",
+        "url": "https://globalsportsarchive.com/competition/soccer/ttcom-regionalliga-tirol-2025-2026/regular-season/127786/"
+      },
+      {
+        "name": "VN.at-Eliteliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/vnat-eliteliga-2025-2026/regular-season/127787/"
+      },
+      {
+        "name": "II. Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/ii-liga-2017-2018/nord/14866/"
+      },
+      {
+        "name": "1. Klasse",
+        "url": "https://globalsportsarchive.com/competition/soccer/1-klasse-2017-2018/sud/14871/"
+      },
+      {
+        "name": "UNIQA ÖFB Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/uniqa-ofb-cup-2025-2026/round-1/125722/"
+      },
+      {
+        "name": "ÖFB-Supercup",
+        "url": "https://globalsportsarchive.com/competition/soccer/ofb-supercup-2004/final/16469/"
+      },
+      {
+        "name": "ÖFB Jugendliga U18",
+        "url": "https://globalsportsarchive.com/competition/soccer/ofb-jugendliga-u18-2025-2026/regular-season/125728/"
+      },
+      {
+        "name": "Admiral Frauen Bundesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/admiral-frauen-bundesliga-2025-2026/regular-season/125729/"
+      },
+      {
+        "name": "2. Frauen Bundesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-frauen-bundesliga-2025-2026/regular-season/125732/"
+      }
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "tournaments": [
+      {
+        "name": "Misli Premyer Liqası",
+        "url": "https://globalsportsarchive.com/competition/soccer/misli-premyer-liqasi-2024-2025/regular-season/104319/"
+      },
+      {
+        "name": "I Liqa",
+        "url": "https://globalsportsarchive.com/competition/soccer/i-liqa-2024-2025/regular-season/105202/"
+      },
+      {
+        "name": "Azərbaycan Kuboku",
+        "url": "https://globalsportsarchive.com/competition/soccer/azarbaycan-kuboku-2024-2025/final/123361/"
+      },
+      {
+        "name": "Azərbaycan Superkuboku",
+        "url": "https://globalsportsarchive.com/competition/soccer/azarbaycan-superkuboku-2013/final/5903/"
+      }
+    ]
+  },
+  {
+    "country": "Belarus",
+    "tournaments": [
+      {
+        "name": "Betera Vyšejšaja Liha",
+        "url": "https://globalsportsarchive.com/competition/soccer/betera-vysejsaja-liha-2025/regular-season/118404/"
+      },
+      {
+        "name": "MaxLine Peršaja Liha",
+        "url": "https://globalsportsarchive.com/competition/soccer/maxline-persaja-liha-2025/regular-season/120050/"
+      },
+      {
+        "name": "Druhaia Liha",
+        "url": "https://globalsportsarchive.com/competition/soccer/druhaia-liha-2024/final/108207/"
+      },
+      {
+        "name": "bet.era Kubok Belarusi",
+        "url": "https://globalsportsarchive.com/competition/soccer/betera-kubok-belarusi-2025-2026/round-3/125190/"
+      },
+      {
+        "name": "Kubok Federacii",
+        "url": "https://globalsportsarchive.com/competition/soccer/kubok-federacii-2007/final/5317/"
+      },
+      {
+        "name": "Superkubak Betera",
+        "url": "https://globalsportsarchive.com/competition/soccer/superkubak-betera-2025/final/116907/"
+      }
+    ]
+  },
+  {
+    "country": "Belgium",
+    "tournaments": [
+      {
+        "name": "Jupiler Pro League",
+        "url": "https://globalsportsarchive.com/competition/soccer/jupiler-pro-league-2025-2026/regular-season/127887/"
+      },
+      {
+        "name": "Challenger Pro League",
+        "url": "https://globalsportsarchive.com/competition/soccer/challenger-pro-league-2024-2025/promotion-play-offs-final/123450/"
+      },
+      {
+        "name": "1e Afdeling / Division 1",
+        "url": "https://globalsportsarchive.com/competition/soccer/1e-afdeling---division-1-2024-2025/relegation-playoff-acff/117866/"
+      },
+      {
+        "name": "Division 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-2-2024-2025/promotion-play-offs-vfv-round-2/123456/"
+      },
+      {
+        "name": "Division 3",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-3-2024-2025/promotion-play-offs-round-3/124273/"
+      },
+      {
+        "name": "Croky Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/croky-cup-2024-2025/final/105431/"
+      },
+      {
+        "name": "Pro League Supercup",
+        "url": "https://globalsportsarchive.com/competition/soccer/pro-league-supercup-2024/final/103480/"
+      },
+      {
+        "name": "1e Provinciale Antwerpen",
+        "url": "https://globalsportsarchive.com/competition/soccer/1e-provinciale-antwerpen-2024-2025/regular-season/103855/"
+      },
+      {
+        "name": "1e Provinciale Brabant",
+        "url": "https://globalsportsarchive.com/competition/soccer/1e-provinciale-brabant-2024-2025/regular-season/103864/"
+      },
+      {
+        "name": "P1 Brabant",
+        "url": "https://globalsportsarchive.com/competition/soccer/p1-brabant-2024-2025/promotion-play-offs-final/123925/"
+      },
+      {
+        "name": "P1 Hainaut",
+        "url": "https://globalsportsarchive.com/competition/soccer/p1-hainaut-2024-2025/promotion-play-offs--3rd-place-round/123985/"
+      },
+      {
+        "name": "1e Provinciale Limburg",
+        "url": "https://globalsportsarchive.com/competition/soccer/1e-provinciale-limburg-2024-2025/regular-season/103912/"
+      },
+      {
+        "name": "Win4Led League",
+        "url": "https://globalsportsarchive.com/competition/soccer/win4led-league-2024-2025/promotion-play-offs-final/123987/"
+      },
+      {
+        "name": "P1 Luxembourg",
+        "url": "https://globalsportsarchive.com/competition/soccer/p1-luxembourg-2024-2025/promotion-play-offs-final/123680/"
+      },
+      {
+        "name": "P1 Namur",
+        "url": "https://globalsportsarchive.com/competition/soccer/p1-namur-2024-2025/promotion-play-offs-final/123988/"
+      },
+      {
+        "name": "1e Provinciale Oost-Vlaanderen",
+        "url": "https://globalsportsarchive.com/competition/soccer/1e-provinciale-oost-vlaanderen-2024-2025/regular-season/103924/"
+      },
+      {
+        "name": "1e Provinciale West-Vlaanderen",
+        "url": "https://globalsportsarchive.com/competition/soccer/1e-provinciale-west-vlaanderen-2024-2025/regular-season/103926/"
+      },
+      {
+        "name": "Pro League U21",
+        "url": "https://globalsportsarchive.com/competition/soccer/pro-league-u21-2024-2025/regular-season/105423/"
+      },
+      {
+        "name": "Pro League U21 - Group 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/pro-league-u21-group-2-2021-2022/regular-season/58817/"
+      },
+      {
+        "name": "U18 Elite",
+        "url": "https://globalsportsarchive.com/competition/soccer/u18-elite-2024-2025/regular-season/106271/"
+      },
+      {
+        "name": "Lotto Super League",
+        "url": "https://globalsportsarchive.com/competition/soccer/lotto-super-league-2024-2025/playoffs-i/121348/"
+      },
+      {
+        "name": "Division I National",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-i-national-2024-2025/regular-season/105424/"
+      },
+      {
+        "name": "1e Nationale / Division Elite",
+        "url": "https://globalsportsarchive.com/competition/soccer/1e-nationale---division-elite-2024-2025/championship-playoffs-final/124294/"
+      }
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "tournaments": [
+      {
+        "name": "Wwin liga BiH",
+        "url": "https://globalsportsarchive.com/competition/soccer/wwin-liga-bih-2025-2026/regular-season/125741/"
+      },
+      {
+        "name": "m:Tel Prva Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/m:tel-prva-liga-2024-2025/fbih/104378/"
+      },
+      {
+        "name": "BiH Kup",
+        "url": "https://globalsportsarchive.com/competition/soccer/bih-kup-2024-2025/final/122149/"
+      }
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "tournaments": [
+      {
+        "name": "efbet Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/efbet-liga-2025-2026/regular-season/125748/"
+      },
+      {
+        "name": "MrBit Vtora Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/mrbit-vtora-liga-2025-2026/regular-season/125753/"
+      },
+      {
+        "name": "Sesame Kupa na Bulgarija",
+        "url": "https://globalsportsarchive.com/competition/soccer/sesame-kupa-na-bulgarija-2024-2025/final/123362/"
+      },
+      {
+        "name": "Superkupa na Bulgarija",
+        "url": "https://globalsportsarchive.com/competition/soccer/superkupa-na-bulgarija-2024/final/111366/"
+      }
+    ]
+  },
+  {
+    "country": "Crimea",
+    "tournaments": [
+      {
+        "name": "Premer-Liga Krymskogo",
+        "url": "https://globalsportsarchive.com/competition/soccer/premer-liga-krymskogo-2025/regular-season/120477/"
+      }
+    ]
+  },
+  {
+    "country": "Croatia",
+    "tournaments": [
+      {
+        "name": "Supersport HNL",
+        "url": "https://globalsportsarchive.com/competition/soccer/supersport-hnl-2025-2026/regular-season/125811/"
+      },
+      {
+        "name": "Supersport Prva NL",
+        "url": "https://globalsportsarchive.com/competition/soccer/supersport-prva-nl-2025-2026/regular-season/125812/"
+      },
+      {
+        "name": "SuperSport Hrvatski Nogometni Kup",
+        "url": "https://globalsportsarchive.com/competition/soccer/supersport-hrvatski-nogometni-kup-2025-2026/round-1/125813/"
+      },
+      {
+        "name": "HR Nogometni Superkup",
+        "url": "https://globalsportsarchive.com/competition/soccer/hr-nogometni-superkup-2023/final/81848/"
+      }
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "tournaments": [
+      {
+        "name": "Cyprus League Stoiximan",
+        "url": "https://globalsportsarchive.com/competition/soccer/cyprus-league-stoiximan-2024-2025/championship-round/119746/"
+      },
+      {
+        "name": "Kypello Kyprou",
+        "url": "https://globalsportsarchive.com/competition/soccer/kypello-kyprou-2024-2025/final/124187/"
+      },
+      {
+        "name": "Super Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/super-cup-2024/final/103627/"
+      }
+    ]
+  },
+  {
+    "country": "Czechia",
+    "tournaments": [
+      {
+        "name": "Chance Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/chance-liga-2025-2026/regular-season/125819/"
+      },
+      {
+        "name": "Chance Národní Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/chance-narodni-liga-2025-2026/regular-season/126271/"
+      },
+      {
+        "name": "ČFL/MSFL",
+        "url": "https://globalsportsarchive.com/competition/soccer/cfl-msfl-2025-2026/msfl/127826/"
+      },
+      {
+        "name": "4. liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/4-liga-2024-2025/division-a/124910/"
+      },
+      {
+        "name": "MOL Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/mol-cup-2025-2026/2nd-preliminary-round/125826/"
+      },
+      {
+        "name": "FAČR Superpohár",
+        "url": "https://globalsportsarchive.com/competition/soccer/facr-superpohar-2015/final/16796/"
+      }
+    ]
+  },
+  {
+    "country": "Denmark",
+    "tournaments": [
+      {
+        "name": "3F Superliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/3f-superliga-2025-2026/regular-season/125754/"
+      },
+      {
+        "name": "NordicBet Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/nordicbet-liga-2025-2026/regular-season/125843/"
+      },
+      {
+        "name": "2. Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-division-2025-2026/regular-season/127828/"
+      },
+      {
+        "name": "3. Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/3-division-2025-2026/regular-season/127832/"
+      },
+      {
+        "name": "Danmarksserien",
+        "url": "https://globalsportsarchive.com/competition/soccer/danmarksserien-2025-2026/pulje-1/127835/"
+      },
+      {
+        "name": "Reserveligaen",
+        "url": "https://globalsportsarchive.com/competition/soccer/reserveligaen-2021-2022/2nd-phase/63520/"
+      },
+      {
+        "name": "Oddset Pokalen",
+        "url": "https://globalsportsarchive.com/competition/soccer/oddset-pokalen-2025-2026/round-1/127874/"
+      },
+      {
+        "name": "U19 Drenge Ligaen",
+        "url": "https://globalsportsarchive.com/competition/soccer/u19-drenge-ligaen-2025-2026/regular-season/126276/"
+      },
+      {
+        "name": "U19 Drenge Divisionen",
+        "url": "https://globalsportsarchive.com/competition/soccer/u19-drenge-divisionen-2025-2026/regular-season/126997/"
+      },
+      {
+        "name": "U17 Drenge Ligaen",
+        "url": "https://globalsportsarchive.com/competition/soccer/u17-drenge-ligaen-2025-2026/regular-season/126998/"
+      },
+      {
+        "name": "U17 Drenge Divisionen",
+        "url": "https://globalsportsarchive.com/competition/soccer/u17-drenge-divisionen-2025-2026/regular-season/126999/"
+      },
+      {
+        "name": "Gjensidige Kvindeliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/gjensidige-kvindeliga-2025-2026/regular-season/126274/"
+      }
+    ]
+  },
+  {
+    "country": "England",
+    "tournaments": [
+      {
+        "name": "Premier League",
+        "url": "https://globalsportsarchive.com/competition/soccer/premier-league-2025-2026/regular-season/125229/"
+      },
+      {
+        "name": "Sky Bet Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/sky-bet-championship-2025-2026/regular-season/125270/"
+      },
+      {
+        "name": "Sky Bet League One",
+        "url": "https://globalsportsarchive.com/competition/soccer/sky-bet-league-one-2025-2026/regular-season/125273/"
+      },
+      {
+        "name": "Sky Bet League Two",
+        "url": "https://globalsportsarchive.com/competition/soccer/sky-bet-league-two-2025-2026/regular-season/125276/"
+      },
+      {
+        "name": "Vanarama National League",
+        "url": "https://globalsportsarchive.com/competition/soccer/vanarama-national-league-2025-2026/regular-season/125280/"
+      },
+      {
+        "name": "Vanarama National League N/S",
+        "url": "https://globalsportsarchive.com/competition/soccer/vanarama-national-league-n-s-2025-2026/south/125367/"
+      },
+      {
+        "name": "Pitching In Northern League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/pitching-in-northern-league-premier-division-2024-2025/promotion-play-offs-final/122346/"
+      },
+      {
+        "name": "Pitching In Southern League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/pitching-in-southern-league-premier-division-2024-2025/promotion-play-offs-final/123461/"
+      },
+      {
+        "name": "Pitching In Isthmian League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/pitching-in-isthmian-league-premier-division-2024-2025/promotion-play-offs-final/122941/"
+      },
+      {
+        "name": "The Emirates FA Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/the-emirates-fa-cup-2025-2026/extra-preliminary-round/125846/"
+      },
+      {
+        "name": "Pitching In Northern League - First Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/pitching-in-northern-league-first-division-2024-2025/promotion-play-offs-final/122770/"
+      },
+      {
+        "name": "Carabao Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/carabao-cup-2025-2026/preliminary-round/127085/"
+      },
+      {
+        "name": "Pitching In Southern League - First Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/pitching-in-southern-league-first-division-2024-2025/promotion-play-offs-final/123462/"
+      },
+      {
+        "name": "FA Community Shield",
+        "url": "https://globalsportsarchive.com/competition/soccer/fa-community-shield-2025/final/125279/"
+      },
+      {
+        "name": "Pitching In Isthmian League - First Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/pitching-in-isthmian-league-first-division-2024-2025/promotion-play-offs-final/122772/"
+      },
+      {
+        "name": "Cherry Red Records Combined Counties Football League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/cherry-red-records-combined-counties-football-league-premier-division-2024-2025/promotion-play-offs-final/122945/"
+      },
+      {
+        "name": "Vertu Trophy",
+        "url": "https://globalsportsarchive.com/competition/soccer/vertu-trophy-2024-2025/final/118142/"
+      },
+      {
+        "name": "Thurlow Nunn League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/thurlow-nunn-league-premier-division-2025-2026/regular-season/127811/"
+      },
+      {
+        "name": "Isuzu FA Trophy",
+        "url": "https://globalsportsarchive.com/competition/soccer/isuzu-fa-trophy-2025-2026/1st-qualifying-round/125880/"
+      },
+      {
+        "name": "Essex Senior Football League",
+        "url": "https://globalsportsarchive.com/competition/soccer/essex-senior-football-league-2024-2025/promotion-play-offs-final/122861/"
+      },
+      {
+        "name": "Uhlsport Hellenic Football League",
+        "url": "https://globalsportsarchive.com/competition/soccer/uhlsport-hellenic-football-league-2024-2025/promotion-play-offs-final/121843/"
+      },
+      {
+        "name": "Midland Football League",
+        "url": "https://globalsportsarchive.com/competition/soccer/midland-football-league-2024-2025/promotion-play-offs-final/122046/"
+      },
+      {
+        "name": "North West Counties Football League",
+        "url": "https://globalsportsarchive.com/competition/soccer/north-west-counties-football-league-2024-2025/promotion-play-offs-final/122947/"
+      },
+      {
+        "name": "Northern Counties East League",
+        "url": "https://globalsportsarchive.com/competition/soccer/northern-counties-east-league-2025-2026/regular-season/127805/"
+      },
+      {
+        "name": "Ebac Northern Football League - Division One",
+        "url": "https://globalsportsarchive.com/competition/soccer/ebac-northern-football-league-division-one-2025-2026/regular-season/127802/"
+      },
+      {
+        "name": "Premier Sports Southern Combination Football League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/premier-sports-southern-combination-football-league-premier-division-2024-2025/promotion-play-offs-final/123398/"
+      },
+      {
+        "name": "Southern Counties East Football League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/southern-counties-east-football-league-premier-division-2024-2025/promotion-play-offs-final/123399/"
+      },
+      {
+        "name": "Spartan South Midlands Football League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/spartan-south-midlands-football-league-premier-division-2025-2026/regular-season/127799/"
+      },
+      {
+        "name": "Uhlsport United Counties League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/uhlsport-united-counties-league-premier-division-2024-2025/promotion-play-offs-final/122955/"
+      },
+      {
+        "name": "Wessex Football League - Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/wessex-football-league-premier-division-2025-2026/regular-season/127814/"
+      },
+      {
+        "name": "Jewson Western Football League",
+        "url": "https://globalsportsarchive.com/competition/soccer/jewson-western-football-league-2025-2026/regular-season/127796/"
+      },
+      {
+        "name": "Non League Charity Shield",
+        "url": "https://globalsportsarchive.com/competition/soccer/non-league-charity-shield-2023/final/89401/"
+      },
+      {
+        "name": "Premier League 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/premier-league-2-2024-2025/final/124365/"
+      },
+      {
+        "name": "Premier League 2 - Division 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/premier-league-2-division-2-2022-2023/promotion-play-offs-final/70875/"
+      },
+      {
+        "name": "U18 Premier League",
+        "url": "https://globalsportsarchive.com/competition/soccer/u18-premier-league-2024-2025/championship-final/124160/"
+      },
+      {
+        "name": "Barclays WSL",
+        "url": "https://globalsportsarchive.com/competition/soccer/barclays-wsl-2024-2025/regular-season/104347/"
+      },
+      {
+        "name": "Barclays Women's Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/barclays-womens-championship-2024-2025/regular-season/104348/"
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "tournaments": [
+      {
+        "name": "A. Le Coq Premium Liiga",
+        "url": "https://globalsportsarchive.com/competition/soccer/a-le-coq-premium-liiga-2025/regular-season/118282/"
+      },
+      {
+        "name": "Esiliiga",
+        "url": "https://globalsportsarchive.com/competition/soccer/esiliiga-2025/regular-season/118285/"
+      },
+      {
+        "name": "Esiliiga B",
+        "url": "https://globalsportsarchive.com/competition/soccer/esiliiga-b-2025/regular-season/118287/"
+      },
+      {
+        "name": "Tipneri Eesti Karikas",
+        "url": "https://globalsportsarchive.com/competition/soccer/tipneri-eesti-karikas-2025-2026/round-of-64/126822/"
+      },
+      {
+        "name": "A. Le Coq Superkarikas",
+        "url": "https://globalsportsarchive.com/competition/soccer/a-le-coq-superkarikas-2025/final/116441/"
+      }
+    ]
+  },
+  {
+    "country": "Faroe Islands",
+    "tournaments": [
+      {
+        "name": "Betri Deildin",
+        "url": "https://globalsportsarchive.com/competition/soccer/betri-deildin-2025/regular-season/116097/"
+      },
+      {
+        "name": "1. deild",
+        "url": "https://globalsportsarchive.com/competition/soccer/1-deild-2025/regular-season/116098/"
+      },
+      {
+        "name": "2. deild",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-deild-2025/regular-season/116099/"
+      },
+      {
+        "name": "Løgmanssteypið",
+        "url": "https://globalsportsarchive.com/competition/soccer/logmanssteypid-2025/final/119261/"
+      },
+      {
+        "name": "Stórsteypadystur",
+        "url": "https://globalsportsarchive.com/competition/soccer/storsteypadystur-2025/final/117513/"
+      }
+    ]
+  },
+  {
+    "country": "Finland",
+    "tournaments": [
+      {
+        "name": "Veikkausliiga",
+        "url": "https://globalsportsarchive.com/competition/soccer/veikkausliiga-2025/regular-season/116168/"
+      },
+      {
+        "name": "Ykkösliiga",
+        "url": "https://globalsportsarchive.com/competition/soccer/ykkosliiga-2025/regular-season/116858/"
+      },
+      {
+        "name": "Ykkönen",
+        "url": "https://globalsportsarchive.com/competition/soccer/ykkonen-2025/regular-season/117510/"
+      },
+      {
+        "name": "Kakkonen",
+        "url": "https://globalsportsarchive.com/competition/soccer/kakkonen-2025/lohko-b/121134/"
+      },
+      {
+        "name": "Suomen Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/suomen-cup-2025/semi-finals/127323/"
+      },
+      {
+        "name": "Liigacup",
+        "url": "https://globalsportsarchive.com/competition/soccer/liigacup-2025/final/118617/"
+      },
+      {
+        "name": "Briotech Kansallinen Liiga",
+        "url": "https://globalsportsarchive.com/competition/soccer/briotech-kansallinen-liiga-2025/regular-season/117881/"
+      }
+    ]
+  },
+  {
+    "country": "France",
+    "tournaments": [
+      {
+        "name": "Ligue 1 McDonald’s",
+        "url": "https://globalsportsarchive.com/competition/soccer/ligue-1-mcdonalds-2025-2026/regular-season/125375/"
+      },
+      {
+        "name": "Ligue 2 BKT",
+        "url": "https://globalsportsarchive.com/competition/soccer/ligue-2-bkt-2025-2026/regular-season/125376/"
+      },
+      {
+        "name": "National",
+        "url": "https://globalsportsarchive.com/competition/soccer/national-2024-2025/regular-season/103967/"
+      },
+      {
+        "name": "National 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/national-2-2024-2025/groupe-c/103996/"
+      },
+      {
+        "name": "National 3",
+        "url": "https://globalsportsarchive.com/competition/soccer/national-3-2024-2025/groupe-j/104012/"
+      },
+      {
+        "name": "Coupe de France",
+        "url": "https://globalsportsarchive.com/competition/soccer/coupe-de-france-2024-2025/final/109177/"
+      },
+      {
+        "name": "Coupe de la Ligue BKT",
+        "url": "https://globalsportsarchive.com/competition/soccer/coupe-de-la-ligue-bkt-2019-2020/final/33641/"
+      },
+      {
+        "name": "Trophée des Champions",
+        "url": "https://globalsportsarchive.com/competition/soccer/trophee-des-champions-2024/final/101536/"
+      },
+      {
+        "name": "Challenge Espoirs",
+        "url": "https://globalsportsarchive.com/competition/soccer/challenge-espoirs-2024-2025/final/122054/"
+      },
+      {
+        "name": "Championnat National U19",
+        "url": "https://globalsportsarchive.com/competition/soccer/championnat-national-u19-2024-2025/final/104537/"
+      },
+      {
+        "name": "Coupe Gambardella - Crédit Agricole",
+        "url": "https://globalsportsarchive.com/competition/soccer/coupe-gambardella-credit-agricole-2024-2025/final/102829/"
+      },
+      {
+        "name": "Arkema Première Ligue",
+        "url": "https://globalsportsarchive.com/competition/soccer/arkema-premiere-ligue-2025-2026/regular-season/125908/"
+      },
+      {
+        "name": "Seconde Ligue",
+        "url": "https://globalsportsarchive.com/competition/soccer/seconde-ligue-2025-2026/regular-season/125911/"
+      },
+      {
+        "name": "Coupe de France Féminine",
+        "url": "https://globalsportsarchive.com/competition/soccer/coupe-de-france-feminine-2024-2025/final/112949/"
+      },
+      {
+        "name": "Trophée des Championnes",
+        "url": "https://globalsportsarchive.com/competition/soccer/trophee-des-championnes-2023/final/82894/"
+      }
+    ]
+  },
+  {
+    "country": "GDR",
+    "tournaments": [
+      {
+        "name": "NOFV-Oberliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/nofv-oberliga-1990-1991/regular-season/32258/"
+      },
+      {
+        "name": "NOFV-Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/nofv-liga-1990-1991/staffel-a/32326/"
+      }
+    ]
+  },
+  {
+    "country": "Georgia",
+    "tournaments": [
+      {
+        "name": "Crystalbet Erovnuli Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/crystalbet-erovnuli-liga-2025/regular-season/117017/"
+      },
+      {
+        "name": "Crystalbet Erovnuli Liga 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/crystalbet-erovnuli-liga-2-2025/regular-season/117024/"
+      },
+      {
+        "name": "David Kipiani Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/david-kipiani-cup-2025/round-of-32/127018/"
+      },
+      {
+        "name": "Supertasi",
+        "url": "https://globalsportsarchive.com/competition/soccer/supertasi-2025/final/124522/"
+      }
+    ]
+  },
+  {
+    "country": "Germany",
+    "tournaments": [
+      {
+        "name": "Bundesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/bundesliga-2025-2026/regular-season/124884/"
+      },
+      {
+        "name": "2. Bundesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-bundesliga-2025-2026/regular-season/124944/"
+      },
+      {
+        "name": "3. Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/3-liga-2025-2026/regular-season/124946/"
+      },
+      {
+        "name": "Regionalliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/regionalliga-2025-2026/bayern/125918/"
+      },
+      {
+        "name": "Oberliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/oberliga-2025-2026/bayern-nord/125924/"
+      },
+      {
+        "name": "Landesliga Hamburg",
+        "url": "https://globalsportsarchive.com/competition/soccer/landesliga-hamburg-2015-2016/hammonia/6365/"
+      },
+      {
+        "name": "DFB-Pokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/dfb-pokal-2025-2026/round-of-64/124948/"
+      },
+      {
+        "name": "Franz Beckenbauer Supercup",
+        "url": "https://globalsportsarchive.com/competition/soccer/franz-beckenbauer-supercup-2025/final/124724/"
+      },
+      {
+        "name": "Krombacher-Niedersachsenpokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/krombacher-niedersachsenpokal-2025-2026/qualifying-round/125952/"
+      },
+      {
+        "name": "Krombacher Niedersachsenpokal Amateure",
+        "url": "https://globalsportsarchive.com/competition/soccer/krombacher-niedersachsenpokal-amateure-2025-2026/qualifying-round/125955/"
+      },
+      {
+        "name": "SHFV-Lotto-Pokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/shfv-lotto-pokal-2025-2026/semi-finals/125963/"
+      },
+      {
+        "name": "bfv-Rothaus-Pokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/bfv-rothaus-pokal-2025-2026/round-1/125964/"
+      },
+      {
+        "name": "AOK-Landespokal Brandenburg",
+        "url": "https://globalsportsarchive.com/competition/soccer/aok-landespokal-brandenburg-2024-2025/final/120256/"
+      },
+      {
+        "name": "Lotto-Pokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/lotto-pokal-2025-2026/round-1/125978/"
+      },
+      {
+        "name": "Bitburger Hessen-Pokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/bitburger-hessen-pokal-2025-2026/round-1/125984/"
+      },
+      {
+        "name": "Dachbleche24 Landespokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/dachbleche24-landespokal-2024-2025/final/120282/"
+      },
+      {
+        "name": "Krombacher Westfalenpokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/krombacher-westfalenpokal-2025-2026/round-1/125997/"
+      },
+      {
+        "name": "Google Pixel Frauen-Bundesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/google-pixel-frauen-bundesliga-2025-2026/regular-season/124959/"
+      },
+      {
+        "name": "2. Frauen-Bundesliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-frauen-bundesliga-2024-2025/regular-season/104318/"
+      },
+      {
+        "name": "Frauen DFB-Pokal",
+        "url": "https://globalsportsarchive.com/competition/soccer/frauen-dfb-pokal-2025-2026/round-1/124960/"
+      },
+      {
+        "name": "Google Pixel Supercup der Frauen",
+        "url": "https://globalsportsarchive.com/competition/soccer/google-pixel-supercup-der-frauen-2025/final/124956/"
+      },
+      {
+        "name": "U-19 DFB Nachwuchsliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/u-19-dfb-nachwuchsliga-2025-2026/regular-season/126004/"
+      },
+      {
+        "name": "U-17 DFB Nachwuchsliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/u-17-dfb-nachwuchsliga-2025-2026/preliminary-round/127770/"
+      },
+      {
+        "name": "DFB-Pokal der Junioren",
+        "url": "https://globalsportsarchive.com/competition/soccer/dfb-pokal-der-junioren-2025-2026/round-1/126011/"
+      },
+      {
+        "name": "bfv-Verbandsliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/bfv-verbandsliga-2019-2020/regular-season/34005/"
+      }
+    ]
+  },
+  {
+    "country": "Gibraltar",
+    "tournaments": [
+      {
+        "name": "Gibraltar Football League",
+        "url": "https://globalsportsarchive.com/competition/soccer/gibraltar-football-league-2024-2025/championship-round/120505/"
+      }
+    ]
+  },
+  {
+    "country": "Gozo",
+    "tournaments": [
+      {
+        "name": "BOV First Division League",
+        "url": "https://globalsportsarchive.com/competition/soccer/bov-first-division-league-2024-2025/regular-season/105093/"
+      },
+      {
+        "name": "BOV Second Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/bov-second-division-2024-2025/regular-season/108551/"
+      },
+      {
+        "name": "BOV GFA Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/bov-gfa-cup-2024-2025/final/122194/"
+      },
+      {
+        "name": "GFA Super Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/gfa-super-cup-2024/final/105094/"
+      }
+    ]
+  },
+  {
+    "country": "Greece",
+    "tournaments": [
+      {
+        "name": "Stoiximan Super League",
+        "url": "https://globalsportsarchive.com/competition/soccer/stoiximan-super-league-2025-2026/regular-season/126041/"
+      },
+      {
+        "name": "Super League 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/super-league-2-2024-2025/promotion-round/117127/"
+      },
+      {
+        "name": "Kypello Elladas",
+        "url": "https://globalsportsarchive.com/competition/soccer/kypello-elladas-2024-2025/final/112062/"
+      },
+      {
+        "name": "Soύper Kap Ellάdos",
+        "url": "https://globalsportsarchive.com/competition/soccer/souper-kap-ellados-2007/final/6627/"
+      }
+    ]
+  },
+  {
+    "country": "Greenland",
+    "tournaments": [
+      {
+        "name": "Grønlandsmestre",
+        "url": "https://globalsportsarchive.com/competition/soccer/gronlandsmestre-2014/final/4194/"
+      }
+    ]
+  },
+  {
+    "country": "Guernsey",
+    "tournaments": [
+      {
+        "name": "FNB Priaulx League",
+        "url": "https://globalsportsarchive.com/competition/soccer/fnb-priaulx-league-2024-2025/regular-season/105580/"
+      }
+    ]
+  },
+  {
+    "country": "Hungary",
+    "tournaments": [
+      {
+        "name": "Fizz Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/fizz-liga-2025-2026/regular-season/126064/"
+      },
+      {
+        "name": "Merkantil Bank Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/merkantil-bank-liga-2025-2026/regular-season/126065/"
+      },
+      {
+        "name": "NB III",
+        "url": "https://globalsportsarchive.com/competition/soccer/nb-iii-2024-2025/promotion-play-offs/124907/"
+      },
+      {
+        "name": "MOL Magyar Kupa",
+        "url": "https://globalsportsarchive.com/competition/soccer/mol-magyar-kupa-2025-2026/round-1/126066/"
+      },
+      {
+        "name": "Magyar Ligakupa",
+        "url": "https://globalsportsarchive.com/competition/soccer/magyar-ligakupa-2014-2015/final/7662/"
+      },
+      {
+        "name": "Szuperkupa",
+        "url": "https://globalsportsarchive.com/competition/soccer/szuperkupa-2015/final/6085/"
+      }
+    ]
+  },
+  {
+    "country": "Iceland",
+    "tournaments": [
+      {
+        "name": "Besta Deildin",
+        "url": "https://globalsportsarchive.com/competition/soccer/besta-deildin-2025/regular-season/115024/"
+      },
+      {
+        "name": "Lengjudeildin",
+        "url": "https://globalsportsarchive.com/competition/soccer/lengjudeildin-2025/regular-season/115025/"
+      },
+      {
+        "name": "2. deild",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-deild-2025/regular-season/115026/"
+      },
+      {
+        "name": "3. deild",
+        "url": "https://globalsportsarchive.com/competition/soccer/3-deild-2025/regular-season/115113/"
+      },
+      {
+        "name": "Mjólkurbikar",
+        "url": "https://globalsportsarchive.com/competition/soccer/mjolkurbikar-2025/semi-finals/117058/"
+      },
+      {
+        "name": "Meistarakeppni",
+        "url": "https://globalsportsarchive.com/competition/soccer/meistarakeppni-2025/final/115115/"
+      },
+      {
+        "name": "Besta Deildin",
+        "url": "https://globalsportsarchive.com/competition/soccer/besta-deildin-2025/regular-season/115116/"
+      },
+      {
+        "name": "Lengjudeildin",
+        "url": "https://globalsportsarchive.com/competition/soccer/lengjudeildin-2025/regular-season/115120/"
+      },
+      {
+        "name": "Mjólkurbikar",
+        "url": "https://globalsportsarchive.com/competition/soccer/mjolkurbikar-2025/semi-finals/117055/"
+      }
+    ]
+  },
+  {
+    "country": "Israel",
+    "tournaments": [
+      {
+        "name": "Ligat TOTO Winner",
+        "url": "https://globalsportsarchive.com/competition/soccer/ligat-toto-winner-2025-2026/regular-season/126074/"
+      },
+      {
+        "name": "Liga Leumit",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-leumit-2025-2026/regular-season/126077/"
+      },
+      {
+        "name": "State Cup Winner",
+        "url": "https://globalsportsarchive.com/competition/soccer/state-cup-winner-2024-2025/final/122817/"
+      },
+      {
+        "name": "Toto Cup Ligat Al",
+        "url": "https://globalsportsarchive.com/competition/soccer/toto-cup-ligat-al-2025-2026/semi-finals/126101/"
+      },
+      {
+        "name": "Israel Super Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/israel-super-cup-2025/final/126103/"
+      }
+    ]
+  },
+  {
+    "country": "Italy",
+    "tournaments": [
+      {
+        "name": "Serie A Enilive",
+        "url": "https://globalsportsarchive.com/competition/soccer/serie-a-enilive-2025-2026/regular-season/126104/"
+      },
+      {
+        "name": "Serie B BKT",
+        "url": "https://globalsportsarchive.com/competition/soccer/serie-b-bkt-2024-2025/relegation-playoff/102472/"
+      },
+      {
+        "name": "Serie C NOW",
+        "url": "https://globalsportsarchive.com/competition/soccer/serie-c-now-2024-2025/promotion-play-offs-final/124345/"
+      },
+      {
+        "name": "Serie D",
+        "url": "https://globalsportsarchive.com/competition/soccer/serie-d-2024-2025/championship-final/123959/"
+      },
+      {
+        "name": "Coppa Italia Frecciarossa",
+        "url": "https://globalsportsarchive.com/competition/soccer/coppa-italia-frecciarossa-2025-2026/final/126111/"
+      },
+      {
+        "name": "EA Sports FC Supercup",
+        "url": "https://globalsportsarchive.com/competition/soccer/ea-sports-fc-supercup-2024/final/102477/"
+      },
+      {
+        "name": "Campionato Primavera 1 TIM",
+        "url": "https://globalsportsarchive.com/competition/soccer/campionato-primavera-1-tim-2025-2026/regular-season/126114/"
+      },
+      {
+        "name": "Serie A eBay",
+        "url": "https://globalsportsarchive.com/competition/soccer/serie-a-ebay-2024-2025/relegation-round/117508/"
+      }
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "tournaments": [
+      {
+        "name": "Kazakhstan Premier League",
+        "url": "https://globalsportsarchive.com/competition/soccer/kazakhstan-premier-league-2025/regular-season/118382/"
+      },
+      {
+        "name": "1XBet Birinşi Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/1xbet-birinsi-liga-2025/regular-season/121184/"
+      },
+      {
+        "name": "OLIMPBET Qazaqstan Kubogy",
+        "url": "https://globalsportsarchive.com/competition/soccer/olimpbet-qazaqstan-kubogy-2025/3rd-qualifying-round/120193/"
+      },
+      {
+        "name": "Olimpbet Qazaqstan Superkubogy",
+        "url": "https://globalsportsarchive.com/competition/soccer/olimpbet-qazaqstan-superkubogy-2025/final/116440/"
+      }
+    ]
+  },
+  {
+    "country": "Kosovo",
+    "tournaments": [
+      {
+        "name": "Albi Mall Superliga",
+        "url": "https://globalsportsarchive.com/competition/soccer/albi-mall-superliga-2024-2025/regular-season/104636/"
+      }
+    ]
+  },
+  {
+    "country": "Latvia",
+    "tournaments": [
+      {
+        "name": "Tonybet Virslīga",
+        "url": "https://globalsportsarchive.com/competition/soccer/tonybet-virsliga-2025/regular-season/118381/"
+      },
+      {
+        "name": "Nākotnes Līga",
+        "url": "https://globalsportsarchive.com/competition/soccer/nakotnes-liga-2025/regular-season/119394/"
+      },
+      {
+        "name": "Latvijas Kauss",
+        "url": "https://globalsportsarchive.com/competition/soccer/latvijas-kauss-2025/round-of-16/127394/"
+      }
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "tournaments": [
+      {
+        "name": "Liechtensteiner Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/liechtensteiner-cup-2025-2026/preliminary-round/126126/"
+      }
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "tournaments": [
+      {
+        "name": "Topsport A Lyga",
+        "url": "https://globalsportsarchive.com/competition/soccer/topsport-a-lyga-2025/regular-season/118250/"
+      },
+      {
+        "name": "Topsport Pirma Lyga",
+        "url": "https://globalsportsarchive.com/competition/soccer/topsport-pirma-lyga-2025/regular-season/118676/"
+      },
+      {
+        "name": "FPRO LFF Taurė",
+        "url": "https://globalsportsarchive.com/competition/soccer/fpro-lff-taure-2025/quarter-finals/126939/"
+      },
+      {
+        "name": "Topsport LFF Supertaurė",
+        "url": "https://globalsportsarchive.com/competition/soccer/topsport-lff-supertaure-2025/final/125195/"
+      }
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "tournaments": [
+      {
+        "name": "BGL Ligue",
+        "url": "https://globalsportsarchive.com/competition/soccer/bgl-ligue-2025-2026/regular-season/126131/"
+      },
+      {
+        "name": "Promotion d'Honneur",
+        "url": "https://globalsportsarchive.com/competition/soccer/promotion-dhonneur-2024-2025/regular-season/103379/"
+      },
+      {
+        "name": "Division 1",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-1-2025-2026/serie-1/127641/"
+      },
+      {
+        "name": "Division 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-2-2024-2025/serie-1/103900/"
+      },
+      {
+        "name": "Division 3",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-3-2024-2025/regular-season/105421/"
+      },
+      {
+        "name": "Loterie Nationale Coupe de Luxembourg",
+        "url": "https://globalsportsarchive.com/competition/soccer/loterie-nationale-coupe-de-luxembourg-2024-2025/final/120493/"
+      }
+    ]
+  },
+  {
+    "country": "Malta",
+    "tournaments": [
+      {
+        "name": "360Sports Premier League",
+        "url": "https://globalsportsarchive.com/competition/soccer/360sports-premier-league-2024-2025/final/124231/"
+      },
+      {
+        "name": "BOV Challenge League",
+        "url": "https://globalsportsarchive.com/competition/soccer/bov-challenge-league-2024-2025/promotion-round/117394/"
+      },
+      {
+        "name": "Izibet Amateur League I",
+        "url": "https://globalsportsarchive.com/competition/soccer/izibet-amateur-league-i-2025-2026/regular-season/126169/"
+      },
+      {
+        "name": "BOV Second Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/bov-second-division-2019-2020/regular-season/33953/"
+      },
+      {
+        "name": "BOV Third Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/bov-third-division-2019-2020/regular-season/33954/"
+      },
+      {
+        "name": "Meridianbet FA Trophy",
+        "url": "https://globalsportsarchive.com/competition/soccer/meridianbet-fa-trophy-2024-2025/final/124334/"
+      },
+      {
+        "name": "BOV Super Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/bov-super-cup-2024/final/109333/"
+      }
+    ]
+  },
+  {
+    "country": "Moldova",
+    "tournaments": [
+      {
+        "name": "Super Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/super-liga-2025-2026/regular-season/126180/"
+      },
+      {
+        "name": "Liga 1",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-1-2025-2026/1st-phase/126182/"
+      },
+      {
+        "name": "Cupa Moldovei Moldtelecom",
+        "url": "https://globalsportsarchive.com/competition/soccer/cupa-moldovei-moldtelecom-2024-2025/final/123976/"
+      },
+      {
+        "name": "Supercupa Moldovei",
+        "url": "https://globalsportsarchive.com/competition/soccer/supercupa-moldovei-2021/final/55328/"
+      }
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "tournaments": [
+      {
+        "name": "Meridianbet 1. CFL",
+        "url": "https://globalsportsarchive.com/competition/soccer/meridianbet-1-cfl-2025-2026/regular-season/126196/"
+      },
+      {
+        "name": "2. CFL",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-cfl-2024-2025/regular-season/104377/"
+      },
+      {
+        "name": "Kup Crne Gore",
+        "url": "https://globalsportsarchive.com/competition/soccer/kup-crne-gore-2024-2025/final/124222/"
+      }
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "tournaments": [
+      {
+        "name": "Eredivisie",
+        "url": "https://globalsportsarchive.com/competition/soccer/eredivisie-2025-2026/regular-season/126203/"
+      },
+      {
+        "name": "Keuken Kampioen Divisie",
+        "url": "https://globalsportsarchive.com/competition/soccer/keuken-kampioen-divisie-2025-2026/regular-season/126206/"
+      },
+      {
+        "name": "Tweede Divisie",
+        "url": "https://globalsportsarchive.com/competition/soccer/tweede-divisie-2025-2026/regular-season/126210/"
+      },
+      {
+        "name": "Derde Divisie",
+        "url": "https://globalsportsarchive.com/competition/soccer/derde-divisie-2025-2026/group-a/126211/"
+      },
+      {
+        "name": "Vierde Divisie",
+        "url": "https://globalsportsarchive.com/competition/soccer/vierde-divisie-2025-2026/group-d/126219/"
+      },
+      {
+        "name": "TOTO KNVB Beker",
+        "url": "https://globalsportsarchive.com/competition/soccer/toto-knvb-beker-2024-2025/final/118604/"
+      },
+      {
+        "name": "Johan Cruijff Schaal",
+        "url": "https://globalsportsarchive.com/competition/soccer/johan-cruijff-schaal-2025/final/126228/"
+      },
+      {
+        "name": "Azerion Eredivisie Vrouwen",
+        "url": "https://globalsportsarchive.com/competition/soccer/azerion-eredivisie-vrouwen-2025-2026/regular-season/126234/"
+      }
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "tournaments": [
+      {
+        "name": "Prva Fudbalska Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/prva-fudbalska-liga-2024-2025/regular-season/104676/"
+      },
+      {
+        "name": "Vtora Fudbalska Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/vtora-fudbalska-liga-2024-2025/regular-season/105004/"
+      },
+      {
+        "name": "Kup na Makedoniјa",
+        "url": "https://globalsportsarchive.com/competition/soccer/kup-na-makedonija-2024-2025/final/123363/"
+      },
+      {
+        "name": "Superkup na Makedoniјa",
+        "url": "https://globalsportsarchive.com/competition/soccer/superkup-na-makedonija-2015/final/7090/"
+      }
+    ]
+  },
+  {
+    "country": "Northern Ireland",
+    "tournaments": [
+      {
+        "name": "Sports Direct Premiership",
+        "url": "https://globalsportsarchive.com/competition/soccer/sports-direct-premiership-2025-2026/regular-season/126283/"
+      },
+      {
+        "name": "Playr-Fit Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/playr-fit-championship-2025-2026/regular-season/126288/"
+      },
+      {
+        "name": "Playr-Fit Premier Intermediate League",
+        "url": "https://globalsportsarchive.com/competition/soccer/playr-fit-premier-intermediate-league-2025-2026/regular-season/126292/"
+      },
+      {
+        "name": "BetMcLean.com League Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/betmcleancom-league-cup-2025-2026/preliminary-round/126312/"
+      },
+      {
+        "name": "Clearer Water Irish Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/clearer-water-irish-cup-2025-2026/round-1/126303/"
+      },
+      {
+        "name": "NIFL Charity Shield",
+        "url": "https://globalsportsarchive.com/competition/soccer/nifl-charity-shield-2025/final/127436/"
+      }
+    ]
+  },
+  {
+    "country": "Norway",
+    "tournaments": [
+      {
+        "name": "Eliteserien",
+        "url": "https://globalsportsarchive.com/competition/soccer/eliteserien-2025/regular-season/113418/"
+      },
+      {
+        "name": "OBOS-ligaen",
+        "url": "https://globalsportsarchive.com/competition/soccer/obos-ligaen-2025/regular-season/113419/"
+      },
+      {
+        "name": "PostNord-ligaen",
+        "url": "https://globalsportsarchive.com/competition/soccer/postnord-ligaen-2025/avdeling-1/114140/"
+      },
+      {
+        "name": "Toppserien",
+        "url": "https://globalsportsarchive.com/competition/soccer/toppserien-2025/regular-season/113423/"
+      },
+      {
+        "name": "NM Cupen",
+        "url": "https://globalsportsarchive.com/competition/soccer/nm-cupen-2025/final/128038/"
+      }
+    ]
+  },
+  {
+    "country": "Poland",
+    "tournaments": [
+      {
+        "name": "PKO Bank Ekstraklasa",
+        "url": "https://globalsportsarchive.com/competition/soccer/pko-bank-ekstraklasa-2025-2026/regular-season/125758/"
+      },
+      {
+        "name": "Betclic 1 Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/betclic-1-liga-2025-2026/regular-season/126318/"
+      },
+      {
+        "name": "Betclic II Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/betclic-ii-liga-2025-2026/regular-season/127302/"
+      },
+      {
+        "name": "Fortuna Puchar Polski",
+        "url": "https://globalsportsarchive.com/competition/soccer/fortuna-puchar-polski-2025-2026/preliminary-round/126321/"
+      },
+      {
+        "name": "Superpuchar Polski",
+        "url": "https://globalsportsarchive.com/competition/soccer/superpuchar-polski-2025/final/126328/"
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "tournaments": [
+      {
+        "name": "Liga Portugal Betclic",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-portugal-betclic-2025-2026/regular-season/125626/"
+      },
+      {
+        "name": "Liga Portugal 2 Meu Super",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-portugal-2-meu-super-2025-2026/regular-season/125627/"
+      },
+      {
+        "name": "Liga 3 Placard",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-3-placard-2024-2025/promotion-round/116908/"
+      },
+      {
+        "name": "Campeonato Portugal",
+        "url": "https://globalsportsarchive.com/competition/soccer/campeonato-portugal-2024-2025/championship-final/125191/"
+      },
+      {
+        "name": "Taça de Portugal Generali Tranquilidade",
+        "url": "https://globalsportsarchive.com/competition/soccer/taca-de-portugal-generali-tranquilidade-2024-2025/final/122519/"
+      },
+      {
+        "name": "Allianz Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/allianz-cup-2025-2026/final/126337/"
+      },
+      {
+        "name": "Supertaça Cândido de Oliveira",
+        "url": "https://globalsportsarchive.com/competition/soccer/supertaca-candido-de-oliveira-2025/final/125625/"
+      },
+      {
+        "name": "Liga Revelação",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-revelacao-2024-2025/championship-round/113629/"
+      },
+      {
+        "name": "Campeonato Nacional I Divisão U19",
+        "url": "https://globalsportsarchive.com/competition/soccer/campeonato-nacional-i-divisao-u19-2025-2026/regular-season/126341/"
+      },
+      {
+        "name": "Campeonato Nacional I Divisão U17",
+        "url": "https://globalsportsarchive.com/competition/soccer/campeonato-nacional-i-divisao-u17-2025-2026/regular-season/126344/"
+      },
+      {
+        "name": "Liga BPI",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-bpi-2024-2025/regular-season/103919/"
+      },
+      {
+        "name": "Supertaça Feminina de Futbol Vodafone",
+        "url": "https://globalsportsarchive.com/competition/soccer/supertaca-feminina-de-futbol-vodafone-2024/final/103922/"
+      },
+      {
+        "name": "Liga Placard",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-placard-2024-2025/final/125933/"
+      },
+      {
+        "name": "Taça da Liga Placard",
+        "url": "https://globalsportsarchive.com/competition/soccer/taca-da-liga-placard-2023-2024/final/95290/"
+      },
+      {
+        "name": "Supertaça Placard",
+        "url": "https://globalsportsarchive.com/competition/soccer/supertaca-placard-2023-2024/final/95296/"
+      }
+    ]
+  },
+  {
+    "country": "Republic of Ireland",
+    "tournaments": [
+      {
+        "name": "SSE Airtricity League Premier Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/sse-airtricity-league-premier-division-2025/regular-season/112942/"
+      },
+      {
+        "name": "SSE Airtricity League First Division",
+        "url": "https://globalsportsarchive.com/competition/soccer/sse-airtricity-league-first-division-2025/regular-season/112960/"
+      },
+      {
+        "name": "Sports Direct FAI Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/sports-direct-fai-cup-2025/round-1/122773/"
+      },
+      {
+        "name": "EA Sports Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/ea-sports-cup-2020/round-1/38081/"
+      },
+      {
+        "name": "President of Ireland's Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/president-of-irelands-cup-2025/final/117050/"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "tournaments": [
+      {
+        "name": "SuperLiga",
+        "url": "https://globalsportsarchive.com/competition/soccer/superliga-2025-2026/regular-season/126348/"
+      },
+      {
+        "name": "Liga 2 Casa Pariurilor",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-2-casa-pariurilor-2024-2025/relegation-playoff/124211/"
+      },
+      {
+        "name": "Cupa României",
+        "url": "https://globalsportsarchive.com/competition/soccer/cupa-romaniei-2025-2026/regional-phase-group-stage/126389/"
+      },
+      {
+        "name": "Cupa Ligii AdePlast",
+        "url": "https://globalsportsarchive.com/competition/soccer/cupa-ligii-adeplast-2016-2017/final/8983/"
+      },
+      {
+        "name": "Supercupa României",
+        "url": "https://globalsportsarchive.com/competition/soccer/supercupa-romaniei-2025/final/126391/"
+      }
+    ]
+  },
+  {
+    "country": "Russia",
+    "tournaments": [
+      {
+        "name": "Mir RPL",
+        "url": "https://globalsportsarchive.com/competition/soccer/mir-rpl-2025-2026/regular-season/126392/"
+      },
+      {
+        "name": "Melbet Pervaja Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/melbet-pervaja-liga-2025-2026/regular-season/126393/"
+      },
+      {
+        "name": "Leon Vtoraya Liga - Divizion A",
+        "url": "https://globalsportsarchive.com/competition/soccer/leon-vtoraya-liga-divizion-a-2025-2026/gruppa-serebro-osen/127602/"
+      },
+      {
+        "name": "Leon Vtoraya Liga - Divizion B",
+        "url": "https://globalsportsarchive.com/competition/soccer/leon-vtoraya-liga-divizion-b-2025/group-1/120046/"
+      },
+      {
+        "name": "Fonbet Kubok Rossii",
+        "url": "https://globalsportsarchive.com/competition/soccer/fonbet-kubok-rossii-2025-2026/group-stage/126396/"
+      },
+      {
+        "name": "OLIMPBET Superkubka Rossii",
+        "url": "https://globalsportsarchive.com/competition/soccer/olimpbet-superkubka-rossii-2025/final/126412/"
+      },
+      {
+        "name": "Molodjozhnaja Futbolnaja Liga - Divizion A",
+        "url": "https://globalsportsarchive.com/competition/soccer/molodjozhnaja-futbolnaja-liga-divizion-a-2025/regular-season/118403/"
+      },
+      {
+        "name": "Molodjozhnaja Futbolnaja Liga - Divizion B",
+        "url": "https://globalsportsarchive.com/competition/soccer/molodjozhnaja-futbolnaja-liga-divizion-b-2025/regular-season/118407/"
+      }
+    ]
+  },
+  {
+    "country": "San Marino",
+    "tournaments": [
+      {
+        "name": "Campionato Sammarinese BKN301",
+        "url": "https://globalsportsarchive.com/competition/soccer/campionato-sammarinese-bkn301-2024-2025/uefa-conference-league-playoff-final/123579/"
+      },
+      {
+        "name": "Coppa Titano BKN301",
+        "url": "https://globalsportsarchive.com/competition/soccer/coppa-titano-bkn301-2024-2025/final/121086/"
+      },
+      {
+        "name": "Supercoppa",
+        "url": "https://globalsportsarchive.com/competition/soccer/supercoppa-2024/final/102994/"
+      }
+    ]
+  },
+  {
+    "country": "Scotland",
+    "tournaments": [
+      {
+        "name": "William Hill Premiership",
+        "url": "https://globalsportsarchive.com/competition/soccer/william-hill-premiership-2025-2026/regular-season/126424/"
+      },
+      {
+        "name": "William Hill Championship",
+        "url": "https://globalsportsarchive.com/competition/soccer/william-hill-championship-2025-2026/regular-season/126427/"
+      },
+      {
+        "name": "William Hill League One",
+        "url": "https://globalsportsarchive.com/competition/soccer/william-hill-league-one-2025-2026/regular-season/126431/"
+      },
+      {
+        "name": "William Hill League Two",
+        "url": "https://globalsportsarchive.com/competition/soccer/william-hill-league-two-2025-2026/regular-season/126434/"
+      },
+      {
+        "name": "Breedon Highland League",
+        "url": "https://globalsportsarchive.com/competition/soccer/breedon-highland-league-2025-2026/regular-season/126437/"
+      },
+      {
+        "name": "Lowland League",
+        "url": "https://globalsportsarchive.com/competition/soccer/lowland-league-2025-2026/regular-season/126438/"
+      },
+      {
+        "name": "Scottish Gas Scottish Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/scottish-gas-scottish-cup-2024-2025/final/104586/"
+      },
+      {
+        "name": "Premier Sports Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/premier-sports-cup-2025-2026/group-stage/126451/"
+      },
+      {
+        "name": "SPFL Trust Trophy",
+        "url": "https://globalsportsarchive.com/competition/soccer/spfl-trust-trophy-2024-2025/final/102747/"
+      },
+      {
+        "name": "ScottishPower SWPL 1",
+        "url": "https://globalsportsarchive.com/competition/soccer/scottishpower-swpl-1-2025-2026/regular-season/126463/"
+      },
+      {
+        "name": "ScottishPower SWPL 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/scottishpower-swpl-2-2025-2026/regular-season/126466/"
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "tournaments": [
+      {
+        "name": "Mozzart Super Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/mozzart-super-liga-2025-2026/regular-season/126541/"
+      },
+      {
+        "name": "Mozzart Prva Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/mozzart-prva-liga-2025-2026/regular-season/126569/"
+      },
+      {
+        "name": "Kup Srbije",
+        "url": "https://globalsportsarchive.com/competition/soccer/kup-srbije-2024-2025/final/124221/"
+      }
+    ]
+  },
+  {
+    "country": "Shetland",
+    "tournaments": [
+      {
+        "name": "G&S Flooring Premier League",
+        "url": "https://globalsportsarchive.com/competition/soccer/gs-flooring-premier-league-2014/regular-season/4265/"
+      }
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "tournaments": [
+      {
+        "name": "Niké Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/nike-liga-2025-2026/regular-season/126579/"
+      },
+      {
+        "name": "MONACObet Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/monacobet-liga-2025-2026/regular-season/126584/"
+      },
+      {
+        "name": "III. Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/iii-liga-2025-2026/zapad/126586/"
+      },
+      {
+        "name": "Slovnaft Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/slovnaft-cup-2025-2026/preliminary-round/126589/"
+      },
+      {
+        "name": "Slovenský Superpohár",
+        "url": "https://globalsportsarchive.com/competition/soccer/slovensky-superpohar-2014/final/3878/"
+      },
+      {
+        "name": "Demišport Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/demisport-liga-2025-2026/regular-season/126598/"
+      }
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "tournaments": [
+      {
+        "name": "PrvaLiga Telemach",
+        "url": "https://globalsportsarchive.com/competition/soccer/prvaliga-telemach-2025-2026/regular-season/126606/"
+      },
+      {
+        "name": "2. SNL",
+        "url": "https://globalsportsarchive.com/competition/soccer/2-snl-2025-2026/regular-season/126607/"
+      },
+      {
+        "name": "3. SNL",
+        "url": "https://globalsportsarchive.com/competition/soccer/3-snl-2024-2025/vzhod/103931/"
+      },
+      {
+        "name": "Pokal Pivovarna Union Slovenije",
+        "url": "https://globalsportsarchive.com/competition/soccer/pokal-pivovarna-union-slovenije-2024-2025/final/124213/"
+      },
+      {
+        "name": "Superpokal Telekom Slovenije",
+        "url": "https://globalsportsarchive.com/competition/soccer/superpokal-telekom-slovenije-2016/final/8252/"
+      },
+      {
+        "name": "Eon NextGen Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/eon-nextgen-liga-2025-2026/regular-season/126617/"
+      },
+      {
+        "name": "1. Slovenska Kadetska Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/1-slovenska-kadetska-liga-2025-2026/regular-season/127419/"
+      },
+      {
+        "name": "1. SŽNL",
+        "url": "https://globalsportsarchive.com/competition/soccer/1-sznl-2025-2026/regular-season/126618/"
+      },
+      {
+        "name": "Ženski Pokal NZS",
+        "url": "https://globalsportsarchive.com/competition/soccer/zenski-pokal-nzs-2025-2026/preliminary-round/126621/"
+      }
+    ]
+  },
+  {
+    "country": "Spain",
+    "tournaments": [
+      {
+        "name": "La Liga EA Sports",
+        "url": "https://globalsportsarchive.com/competition/soccer/la-liga-ea-sports-2025-2026/regular-season/126629/"
+      },
+      {
+        "name": "La Liga Hypermotion",
+        "url": "https://globalsportsarchive.com/competition/soccer/la-liga-hypermotion-2025-2026/regular-season/127358/"
+      },
+      {
+        "name": "Primera Federación",
+        "url": "https://globalsportsarchive.com/competition/soccer/primera-federacion-2025-2026/group-1/127454/"
+      },
+      {
+        "name": "Segunda Federación",
+        "url": "https://globalsportsarchive.com/competition/soccer/segunda-federacion-2025-2026/group-1/127459/"
+      },
+      {
+        "name": "Tercera División",
+        "url": "https://globalsportsarchive.com/competition/soccer/tercera-division-2020-2021/relegation-round/109426/"
+      },
+      {
+        "name": "Copa del Rey MAPFRE",
+        "url": "https://globalsportsarchive.com/competition/soccer/copa-del-rey-mapfre-2024-2025/final/107796/"
+      },
+      {
+        "name": "Supercopa de España",
+        "url": "https://globalsportsarchive.com/competition/soccer/supercopa-de-espana-2026/semi-finals/126638/"
+      },
+      {
+        "name": "Liga F",
+        "url": "https://globalsportsarchive.com/competition/soccer/liga-f-2025-2026/regular-season/126640/"
+      },
+      {
+        "name": "Primera División de Futsal",
+        "url": "https://globalsportsarchive.com/competition/soccer/primera-division-de-futsal-2024-2025/final/126272/"
+      },
+      {
+        "name": "Segunda División de Futsal",
+        "url": "https://globalsportsarchive.com/competition/soccer/segunda-division-de-futsal-2024-2025/promotion-play-offs-final/125340/"
+      },
+      {
+        "name": "Copa del Rey de Fútbol Sala",
+        "url": "https://globalsportsarchive.com/competition/soccer/copa-del-rey-de-futbol-sala-2024-2025/final/110777/"
+      },
+      {
+        "name": "Supercopa de España de Futsal",
+        "url": "https://globalsportsarchive.com/competition/soccer/supercopa-de-espana-de-futsal-2024-2025/final/110769/"
+      }
+    ]
+  },
+  {
+    "country": "Sweden",
+    "tournaments": [
+      {
+        "name": "Allsvenskan",
+        "url": "https://globalsportsarchive.com/competition/soccer/allsvenskan-2025/regular-season/112935/"
+      },
+      {
+        "name": "Superettan",
+        "url": "https://globalsportsarchive.com/competition/soccer/superettan-2025/regular-season/112936/"
+      },
+      {
+        "name": "Ettan",
+        "url": "https://globalsportsarchive.com/competition/soccer/ettan-2025/sodra/116085/"
+      },
+      {
+        "name": "Division 2",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-2-2025/norra-svealand/116577/"
+      },
+      {
+        "name": "Division 3",
+        "url": "https://globalsportsarchive.com/competition/soccer/division-3-2025/norra-norrland/116588/"
+      },
+      {
+        "name": "Svenska Cupen",
+        "url": "https://globalsportsarchive.com/competition/soccer/svenska-cupen-2025-2026/round-1/121893/"
+      },
+      {
+        "name": "Svenska Supercupen",
+        "url": "https://globalsportsarchive.com/competition/soccer/svenska-supercupen-2015/final/7961/"
+      },
+      {
+        "name": "U21 Allsvenskan",
+        "url": "https://globalsportsarchive.com/competition/soccer/u21-allsvenskan-2023/championship-final/90016/"
+      },
+      {
+        "name": "P19 Allsvenskan",
+        "url": "https://globalsportsarchive.com/competition/soccer/p19-allsvenskan-2025/regular-season/116968/"
+      },
+      {
+        "name": "P17 Allsvenskan",
+        "url": "https://globalsportsarchive.com/competition/soccer/p17-allsvenskan-2025/championship-round/127146/"
+      },
+      {
+        "name": "OBOS Damallsvenskan",
+        "url": "https://globalsportsarchive.com/competition/soccer/obos-damallsvenskan-2025/regular-season/113441/"
+      },
+      {
+        "name": "Elitettan",
+        "url": "https://globalsportsarchive.com/competition/soccer/elitettan-2025/regular-season/113444/"
+      },
+      {
+        "name": "Svenska Cupen",
+        "url": "https://globalsportsarchive.com/competition/soccer/svenska-cupen-2025-2026/round-2/126608/"
+      },
+      {
+        "name": "Corinthian Bowl",
+        "url": "https://globalsportsarchive.com/competition/soccer/corinthian-bowl-1913/final/6850/"
+      }
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "tournaments": [
+      {
+        "name": "Brack Super League",
+        "url": "https://globalsportsarchive.com/competition/soccer/brack-super-league-2025-2026/regular-season/126641/"
+      },
+      {
+        "name": "Dieci Challenge League",
+        "url": "https://globalsportsarchive.com/competition/soccer/dieci-challenge-league-2025-2026/regular-season/126644/"
+      },
+      {
+        "name": "Hoval Promotion League",
+        "url": "https://globalsportsarchive.com/competition/soccer/hoval-promotion-league-2025-2026/regular-season/126646/"
+      },
+      {
+        "name": "Hoval 1. Liga Classic",
+        "url": "https://globalsportsarchive.com/competition/soccer/hoval-1-liga-classic-2025-2026/group-1/126647/"
+      },
+      {
+        "name": "Schweizer Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/schweizer-cup-2025-2026/round-of-64/126652/"
+      },
+      {
+        "name": "Erste Liga Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/erste-liga-cup-2025-2026/preliminary-round/127777/"
+      },
+      {
+        "name": "AXA Women's Super League",
+        "url": "https://globalsportsarchive.com/competition/soccer/axa-womens-super-league-2025-2026/regular-season/126669/"
+      },
+      {
+        "name": "AXA Women's Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/axa-womens-cup-2025-2026/round-of-64/126663/"
+      },
+      {
+        "name": "U18 Liga",
+        "url": "https://globalsportsarchive.com/competition/soccer/u18-liga-2025-2026/regular-season/126660/"
+      }
+    ]
+  },
+  {
+    "country": "TR Northern Cyprus",
+    "tournaments": [
+      {
+        "name": "AKSA Süper Lig",
+        "url": "https://globalsportsarchive.com/competition/soccer/aksa-super-lig-2024-2025/relegation-round/126782/"
+      },
+      {
+        "name": "AKSA 1. Lig",
+        "url": "https://globalsportsarchive.com/competition/soccer/aksa-1-lig-2024-2025/promotion-round/126886/"
+      },
+      {
+        "name": "Northernland Kıbrıs Kupası",
+        "url": "https://globalsportsarchive.com/competition/soccer/northernland-kibris-kupasi-2024-2025/final/126892/"
+      },
+      {
+        "name": "Özer Komando Süper Kupa",
+        "url": "https://globalsportsarchive.com/competition/soccer/ozer-komando-super-kupa-2024/final/126789/"
+      }
+    ]
+  },
+  {
+    "country": "Türkiye",
+    "tournaments": [
+      {
+        "name": "Trendyol Süper Lig",
+        "url": "https://globalsportsarchive.com/competition/soccer/trendyol-super-lig-2025-2026/regular-season/126676/"
+      },
+      {
+        "name": "Trendyol 1. Lig",
+        "url": "https://globalsportsarchive.com/competition/soccer/trendyol-1-lig-2025-2026/regular-season/126677/"
+      },
+      {
+        "name": "Nesine 2. Lig",
+        "url": "https://globalsportsarchive.com/competition/soccer/nesine-2-lig-2025-2026/kirmizi/126682/"
+      },
+      {
+        "name": "Nesine 3. Lig",
+        "url": "https://globalsportsarchive.com/competition/soccer/nesine-3-lig-2025-2026/group-1/126702/"
+      },
+      {
+        "name": "Ziraat Türkiye Kupası",
+        "url": "https://globalsportsarchive.com/competition/soccer/ziraat-turkiye-kupasi-2024-2025/final/122520/"
+      },
+      {
+        "name": "Türkcell Süper Kupa",
+        "url": "https://globalsportsarchive.com/competition/soccer/turkcell-super-kupa-2025/semi-finals/126719/"
+      },
+      {
+        "name": "Turkcell Kadın Futbol Süper Ligi",
+        "url": "https://globalsportsarchive.com/competition/soccer/turkcell-kadin-futbol-super-ligi-2024-2025/regular-season/106532/"
+      }
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "tournaments": [
+      {
+        "name": "VBet Liha",
+        "url": "https://globalsportsarchive.com/competition/soccer/vbet-liha-2025-2026/regular-season/126729/"
+      },
+      {
+        "name": "Persha Liha",
+        "url": "https://globalsportsarchive.com/competition/soccer/persha-liha-2025-2026/regular-season/126730/"
+      },
+      {
+        "name": "Druha Liha",
+        "url": "https://globalsportsarchive.com/competition/soccer/druha-liha-2025-2026/regular-season/126733/"
+      },
+      {
+        "name": "VBET Kubok Ukrainy",
+        "url": "https://globalsportsarchive.com/competition/soccer/vbet-kubok-ukrainy-2024-2025/final/105439/"
+      },
+      {
+        "name": "Superkubok Ukrainy",
+        "url": "https://globalsportsarchive.com/competition/soccer/superkubok-ukrainy-2021/final/54708/"
+      },
+      {
+        "name": "Championat U-21",
+        "url": "https://globalsportsarchive.com/competition/soccer/championat-u-21-2020-2021/regular-season/47957/"
+      },
+      {
+        "name": "Championat U-19",
+        "url": "https://globalsportsarchive.com/competition/soccer/championat-u-19-2025-2026/regular-season/126744/"
+      },
+      {
+        "name": "Vyshcha Liha",
+        "url": "https://globalsportsarchive.com/competition/soccer/vyshcha-liha-2025-2026/regular-season/126748/"
+      }
+    ]
+  },
+  {
+    "country": "Vatican City",
+    "tournaments": [
+      {
+        "name": "ACDV League",
+        "url": "https://globalsportsarchive.com/competition/soccer/acdv-league-2014-2015/final/6434/"
+      }
+    ]
+  },
+  {
+    "country": "Wales",
+    "tournaments": [
+      {
+        "name": "JD Cymru Premier",
+        "url": "https://globalsportsarchive.com/competition/soccer/jd-cymru-premier-2025-2026/regular-season/126751/"
+      },
+      {
+        "name": "JD Cymru North/South",
+        "url": "https://globalsportsarchive.com/competition/soccer/jd-cymru-north-south-2025-2026/north/126757/"
+      },
+      {
+        "name": "Huws Gray Alliance",
+        "url": "https://globalsportsarchive.com/competition/soccer/huws-gray-alliance-2018-2019/regular-season/22938/"
+      },
+      {
+        "name": "WFL Division One",
+        "url": "https://globalsportsarchive.com/competition/soccer/wfl-division-one-2018-2019/regular-season/23065/"
+      },
+      {
+        "name": "Nathaniel MG Cup",
+        "url": "https://globalsportsarchive.com/competition/soccer/nathaniel-mg-cup-2025-2026/round-2/126760/"
+      }
+    ]
+  }
+]

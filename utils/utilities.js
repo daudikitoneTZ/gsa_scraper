@@ -26,39 +26,6 @@ export const saveJSON = async (filePath, data, append = false) => {
 }
 
 /**
- * @param {string} filepath 
- * @param {{logErrors: boolean}} options 
- * @param {any} data 
- */
-export const readJSON = async (filePath, options = {}) => {
-    let content;
-    try { content = await fs.readFile(filePath, "utf8") }
-    catch (error) {
-        if (options.logErrors) {
-            logger('error', [
-                `Error occurred when reading JSON file ${filePath}`,
-                `[JSON Error] - ${error?.message || "N/A"}`
-            ])
-        }
-    }
-
-    if (!content) return null;
-    let json;
-
-    try { json = JSON.parse(content) } 
-    catch (error) {
-        if (options.logErrors) {
-            logger('error', [
-                `Error occurred when parsing JSON file ${filePath}`,
-                `[JSON Error] - ${error?.message || "N/A"}`
-            ])
-        }
-    }
-
-    return json;
-}
-
-/**
  * Enhanced retry utility with network reconnection handling
  * @param {Function} operation 
  * @param {number} [maxRetries=3] 
