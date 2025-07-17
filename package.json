@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "gsa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "scraper.js",
   "scripts": {
     "start": "node scraper.js"

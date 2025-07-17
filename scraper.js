@@ -1,15 +1,15 @@
 import fs from "node:fs/promises";
 import scrapeTournament from "./lib/league_scraper.js";
-import { joinPathnames } from "./utils/utilities.js";
 import getCompetitionUrls from "./lib/competitions/competitions_url.js";
+import { joinPathnames } from "./utils/utilities.js";
 
 const baseUrl = 'https://globalsportsarchive.com';
 const outputDir = await createDataDirectory('data');
 
-startScraper(); // Starting the program
+startScraper(true); // Starting the program
 
-async function startScraper() {
-    const competitions = await getCompetitionUrls("Europe", true);
+async function startScraper(leaguesOnly = false) {
+    const competitions = await getCompetitionUrls(null, true);
     console.log(`${competitions.length} countries about to be processed...\n`);
     
     for (let i = 0; i < competitions.length; i++) {
@@ -18,7 +18,7 @@ async function startScraper() {
         for (let j = 0; j < tournaments.length; j++) {
             const { name, url } = tournaments[j];
             console.log(`[${j + 1}/${tournaments.length}] Scraping ${name} in ${country}`);
-            await scrapeLeagues(country, name, url);
+            await scrapeLeagues(country, name, url, leaguesOnly);
             console.log('\n');
         }
         console.log('\n\n');
@@ -32,12 +32,13 @@ async function startScraper() {
  * @param {string} country 
  * @param {string} tournament 
  * @param {string} url
+ * @param {boolean} leaguesOnly
  */
-async function scrapeLeagues(country, tournament, url) {
+async function scrapeLeagues(country, tournament, url, leaguesOnly) {
     const dataDir = joinPathnames([outputDir, country.replace(/\s/g, '_').replace('/', '_')]);
     await fs.mkdir(dataDir, { recursive: true });
     await writeMetaData(country, joinPathnames([dataDir, 'metadata.txt']));
-    await scrapeTournament({ tournament, baseUrl, dataDir, pageUrl: url });
+    await scrapeTournament({ tournament, baseUrl, dataDir, leaguesOnly, pageUrl: url });
 }
 
 /** @param {string} dirname */
