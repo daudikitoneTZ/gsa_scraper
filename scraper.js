@@ -56,5 +56,16 @@ async function createDataDirectory(dirname) {
  * @param {string} filename 
  */
 async function writeMetaData(country, filename) {
-    await fs.appendFile(filename, `Country = ${country}\n`)
+    const metadata = `Country = ${country}\n`;
+    try {
+        const content = await fs.readFile(filename, 'utf8');
+        const pattern = /Country\s=/i;
+        !content || !pattern.test(content || "") &&
+         await fs.appendFile(filename, metadata);
+    } 
+    catch (error) {
+        error.code === "ENOENT"
+         ? await fs.appendFile(filename, metadata) 
+         : console.warn('Error occurred when writing metadata:', error.message);
+    }
 }
