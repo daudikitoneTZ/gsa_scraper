@@ -6,10 +6,10 @@ import { joinPathnames } from "./utils/utilities.js";
 const baseUrl = 'https://globalsportsarchive.com';
 const outputDir = await createDataDirectory('data');
 
-startScraper(true); // Starting the program
+startScraper(true, 'Bosnia and Herzegovina'); // Starting the program
 
-async function startScraper(leaguesOnly = false) {
-    const competitions = await getCompetitionUrls(null, true);
+async function startScraper(leaguesOnly = false, countryIndex = '') {
+    const competitions = await getCompetitionUrls(null, countryIndex);
     console.log(`${competitions.length} countries about to be processed...\n`);
     
     for (let i = 0; i < competitions.length; i++) {

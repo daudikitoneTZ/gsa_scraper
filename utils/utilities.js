@@ -26,6 +26,13 @@ export const saveJSON = async (filePath, data, append = false) => {
 }
 
 /**
+ * @param {Object | Array} obj 
+ */
+export const deepCopy = (obj) => {
+    return JSON.parse(JSON.stringify(obj));
+}
+
+/**
  * Enhanced retry utility with network reconnection handling
  * @param {Function} operation 
  * @param {number} [maxRetries=3] 
