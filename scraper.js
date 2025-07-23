@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import scrapeTournament from "./lib/league_scraper.js";
 import getCompetitionUrls from "./lib/competitions/competitions_url.js";
-import { joinPathnames } from "./utils/utilities.js";
+import { joinPathnames, normalizeFilepath } from "./utils/utilities.js";
 
 const baseUrl = 'https://globalsportsarchive.com';
 const outputDir = await createDataDirectory('data');
@@ -35,7 +35,7 @@ async function startScraper(leaguesOnly = false, countryIndex = '') {
  * @param {boolean} leaguesOnly
  */
 async function scrapeLeagues(country, tournament, url, leaguesOnly) {
-    const dataDir = joinPathnames([outputDir, country.replace(/\s/g, '_').replace('/', '_')]);
+    const dataDir = joinPathnames([outputDir, normalizeFilepath(country)]);
     await fs.mkdir(dataDir, { recursive: true });
     await writeMetaData(country, joinPathnames([dataDir, 'metadata.txt']));
     await scrapeTournament({ tournament, baseUrl, dataDir, leaguesOnly, pageUrl: url });

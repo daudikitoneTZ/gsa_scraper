@@ -25,12 +25,11 @@ export const saveJSON = async (filePath, data, append = false) => {
      .catch(err => console.error('Failed to write a file:', err.message, `[${filePath}]`));
 }
 
-/**
- * @param {Object | Array} obj 
- */
-export const deepCopy = (obj) => {
-    return JSON.parse(JSON.stringify(obj));
-}
+/** @param {Object | Array} obj */
+export const deepCopy = (obj) => JSON.parse(JSON.stringify(obj));
+
+/** @param {string} filepath */
+export const normalizeFilepath = (filepath) => filepath.replace(/[\s:/$\\]/g, '_');
 
 /**
  * Enhanced retry utility with network reconnection handling
