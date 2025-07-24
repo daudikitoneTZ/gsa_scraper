@@ -38,7 +38,14 @@ async function scrapeLeagues(country, tournament, url, leaguesOnly) {
     const dataDir = joinPathnames([outputDir, normalizeFilepath(country)]);
     await fs.mkdir(dataDir, { recursive: true });
     await writeMetaData(country, joinPathnames([dataDir, 'metadata.txt']));
-    await scrapeTournament({ tournament, baseUrl, dataDir, leaguesOnly, pageUrl: url });
+    await scrapeTournament({ 
+        country, 
+        tournament, 
+        baseUrl, 
+        dataDir, 
+        leaguesOnly, 
+        pageUrl: url 
+    });
 }
 
 /** @param {string} dirname */
