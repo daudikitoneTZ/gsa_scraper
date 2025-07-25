@@ -63,14 +63,22 @@ async function createDataDirectory(dirname) {
  * @param {string} filename 
  */
 async function writeMetaData(country, filename) {
-    const metadata = `Country = ${country}\n`;
+    const scrapeDate = `Date = ${new Date().toISOString()}\n`;
+    const scrapedCountry = `Country = ${country}\n`;
+    const metadata = scrapedCountry + scrapeDate;
+
     try {
         const content = await fs.readFile(filename, 'utf8');
-        const pattern = /Country\s=/i;
-        !content || !pattern.test(content || "") &&
-         await fs.appendFile(filename, metadata);
-    } 
+        const countryPredicate = content.toLowerCase().includes(`country = ${country}`);
+        if (content && countryPredicate) await fs.appendFile(filename, scrapeDate);
+        else if (!content) await fs.appendFile(filename, metadata);
+        else throw 'CORRUPT DATA';
+    }
+     
     catch (error) {
+        if (error === 'CORRUPT DATA') {
+            await fs.appendFile(filename, 'Corrupt = true\n');
+        }
         error.code === "ENOENT"
          ? await fs.appendFile(filename, metadata) 
          : console.warn('Error occurred when writing metadata:', error.message);
